@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hasan 👋
 
-<!--
-**Hasanemre121/Hasanemre121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Technology student at **Eskişehir Technical University**, building a foundation in software development.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Learning **C#** and object-oriented programming
+- Studying **machine learning, AI and data science**
+- Building my first projects (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/hasan-emre/)
